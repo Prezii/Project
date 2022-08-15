@@ -1,4 +1,5 @@
 # Proyect
-Geoscience student
-##
-About degree proyect with Jupyter and Deep learning (CNN)
+Los Andes University - Geoscience student
+#
+About my degree proyect with python and Deep learning (CNN) about timeseries in Costa Rica rift
+#
